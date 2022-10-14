@@ -9,8 +9,8 @@ body {background-color:#ffffff}
 .section {margin:18px; max-width:1200px}
 .mainsection {margin:18px; max-width:1200px}
 
-td {padding:12px}
-td div {padding:12px}
+td {padding:8px}
+td div {padding:8px}
 
 li {margin:8px}
 ul {list-style: square}
