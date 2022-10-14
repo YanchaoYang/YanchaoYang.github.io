@@ -6,8 +6,8 @@ body {background-color:#ffffff}
 .inactive {color:gray}
 
 .header {font-weight:bold; color:#990000}
-.section {margin:10px; max-width:1024px}
-.mainsection {margin:10px; max-width:1280px}
+.section {margin:100px; max-width:1024px}
+.mainsection {margin:100px; max-width:1280px}
 
 td {padding:3px}
 td div {padding:7px}
