@@ -6,14 +6,13 @@ body {background-color:#ffffff}
 .inactive {color:gray}
 
 .header {font-weight:bold; color:#990000}
-.section {margin:10px; max-width:1024px}
-.mainsection {margin:10px; max-width:1280px}
+.section {margin:18px; max-width:1200px}
+.mainsection {margin:18px; max-width:1200px}
 
-td {padding:3px}
-td div {padding:7px}
+td {padding:12px}
+td div {padding:12px}
 
-li {margin:6px}
+li {margin:8px}
 ul {list-style: square}
 
-#html { font-family: "Times" }
-html { font-family: "Arial" }
+html { font-family: "Helvetica" }
