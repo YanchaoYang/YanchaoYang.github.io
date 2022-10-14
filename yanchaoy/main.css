@@ -15,4 +15,5 @@ td div {padding:7px}
 li {margin:6px}
 ul {list-style: square}
 
-html { font-family: "Times" }
+#html { font-family: "Times" }
+html { font-family: "Arial" }
