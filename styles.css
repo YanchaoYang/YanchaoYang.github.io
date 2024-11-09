@@ -8,7 +8,7 @@ body {
     word-spacing: 0.16em; /* Adjust this value as needed */
 }
 header {
-    background: url('./yanchaoy/background.png') no-repeat center center;
+    background: url('./yanchaoy/background.jpg') no-repeat center center;
     background-size: cover;
     color: white;
     height: 448px; /* Set height to 448px */
